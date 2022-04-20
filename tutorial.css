@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+.header {
+    background-color:rgb(0, 73, 42);
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+    font-size: 5em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color:white;
+}
+
+.bhatia {
+    height: 400px;
+    width: 300px;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+
+.step {
+    text-align: center;
+    line-height: 1.6; 
+    font-style: italic;
+    font-size: large;
+    
+}
+.QR {
+    height: 400px;
+    width: 350px;
+    padding-left: 38%;
+    padding-top: 10px;
+}
+.Pay {
+    height: 300px;
+    width: 400px;
+    padding-left: 38%;
+    padding-top: 10px;
+}
+.bhat {
+    height: 400px;
+    width: 300px;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+.badhan {
+    height: 400px;
+    width: 500px;
+    padding-left: 33%;
+    padding-top: 10px;
+}
+.end {
+    text-align: center;
+    line-height: 1.8; 
+    font-style: italic;
+    font-size:x-large;
+    padding-bottom: 40px;
+}
